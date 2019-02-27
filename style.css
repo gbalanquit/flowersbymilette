@@ -107,6 +107,11 @@ body {
   padding-bottom: 2%;
 }
 
+.about-picture img {
+  width: 100%;
+  height: auto;
+}
+
 /*------testimonials section ------------*/
 #testimonials {
   padding-top: 20px;
